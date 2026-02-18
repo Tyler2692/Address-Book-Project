@@ -31,15 +31,15 @@ martinsAE = "278827@burlcoschools.org"
 wesSN = "Wes Spaugh"
 wesSA = "16"
 wesSG = "11th"
-wesSDL = "No"
+wesSL = "No"
 wesSE = "279089@burlcoschools.org"
 
 #Alexander's information
 alexanderDN = "Alexander Dowling"
-alexanderDNA = "16"
-alexanderDNG = "11th"
-alexanderDNL = "No"
-alexanderDNE = "279235@burlcoschools.org"
+alexanderDA = "16"
+alexanderDG = "11th"
+alexanderDL = "No"
+alexanderDE = "279235@burlcoschools.org"
 
 #Dylan's information
 dylanGN = "Dylan Medina Guzman"
@@ -61,9 +61,59 @@ abrahamEG = "11th"
 abrahamEL = "No"
 abrahamEE = "269360@burlcoschools.org"
 
-BrandonCN = "Brandon Cox"
-BrandonCA = "17"
-BrandonCG = "11th"
-BrandonCL = "No"
-BrandonCE = "278583@burlcoschools.org"
+brandonCN = "Brandon Cox"
+brandonCA = "17"
+brandonCG = "11th"
+brandonCL = "No"
+brandonCE = "278583@burlcoschools.org"
 
+print(f"{calebWN}")
+print(f"{calebWA}")
+print(f"{calebWG}")
+print(f"{calebWL}")
+print(f"{calebWE}")
+print(f"{andrewRN}")
+print(f"{andrewRA}")
+print(f"{andrewRG}")
+print(f"{andrewRL}")
+print(f"{andrewRE}")
+print(f"{chrisDN}")
+print(f"{chrisDA}")
+print(f"{chrisDG}")
+print(f"{chrisDL}")
+print(f"{chrisDE}")
+print(f"{martinsAN}")
+print(f"{martinsAA}")
+print(f"{martinsAG}")
+print(f"{martinsAL}")
+print(f"{martinsAE}")
+print(f"{wesSN}")
+print(f"{wesSA}")
+print(f"{wesSG}")
+print(f"{wesSL}")
+print(f"{wesSE}")
+print(f"{alexanderDN}")
+print(f"{alexanderDA}")
+print(f"{alexanderDG}")
+print(f"{alexanderDL}")
+print(f"{alexanderDE}")
+print(f"{dylanGN}")
+print(f"{dylanGA}")
+print(f"{dylanGG}")
+print(f"{dylanGL}")
+print(f"{dylanGE}")
+print(f"{tylerKN}")
+print(f"{tylerKA}")
+print(f"{tylerKG}")
+print(f"{tylerKL}")
+print(f"{tylerKE}")
+print(f"{abrahamEN}")
+print(f"{abrahamE}")
+print(f"{abrahamE}")
+print(f"{abrahamE}")
+print(f"{abrahamE}")
+print(f"{brandonCN}")
+print(f"{brandonC}")
+print(f"{brandonC}")
+print(f"{brandonC}")
+print(f"{brandonC}")
