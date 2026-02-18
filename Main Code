@@ -1,31 +1,56 @@
+# information below is in string format.
+#Caleb's information.
 calebWN = "Caleb Wall"
 calebWA = "16"
-calebWG = "Junior"
+calebWG = "11th"
 calebWL = "No"
 calebWE = "278472@burlcoschools.org"
 
+#Andrew's information
 andrewRN = "Andrew Rapetti"
 andrewRA = "16"
-andrewRG = "Junior"
+andrewRG = "11th"
 andrewRL = "No"
 andrewRE = "278430@burlcoschools.org"
 
+#Chris's information
 chrisDN = "Chris Davis"
 chrisDA = "16"
-chrisDG = "Junior"
+chrisDG = "11th"
 chrisDL = "No"
 chrisDE = "269329@burlcoschools.org"
 
-martinsAN = ""
-martinsAA = ""
-martinsAG = ""
-martinsAL = ""
-martinsAE = ""
+#Martins's information (me!)
+martinsAN = "Martins Jr Agbakwu"
+martinsAA = "16"
+martinsAG = "11th"
+martinsAL = "No"
+martinsAE = "278827@burlcoschools.org"
 
-wesSN =
-wesSA =
-wesSG=
-wesSL =
-wesSE =
+#Wes's information
+wesSN = "Wes Spaugh"
+wesSA = "16"
+wesSG = "11th"
+wesSDL = "No"
+wesSE = "279089@burlcoschools.org"
 
-AlexanderD
+#Alexander's information
+alexanderDN = "Alexander Dowling"
+alexanderDNA = "16"
+alexanderDNG = "11th"
+alexanderDNL = "No"
+alexanderDNE = "279235@burlcoschools.org"
+
+#Dylan's information
+dylanGN = "Dylan Guzman medina"
+dylanGA = "16"
+dylanGG = "11th"
+dylanGL = "No"
+dylanGE = "278509@burlcoschools.org"
+
+#Tyler's information
+tylerKN = "Tyler Keane"
+tylerKA = "17"
+tylerKG = "11th"
+tylerKL = "No"
+tylerKE = "Email: 269260@burlcoschools.org"
